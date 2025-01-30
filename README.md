@@ -1,7 +1,7 @@
 ![MasterHead](https://user-images.githubusercontent.com/86270481/214122618-1bf43327-cdef-456e-81fe-fc71a9070c07.gif)
 
 <h1 align="center">Hi 👋, I'm Long (Jackson) Le</h1>
-<h3 align="center">A Computer Science student with a strong passion for technology and problem-solving</h3>
+<h3 align="center">A Full stack developer with a strong passion for technology and problem-solving</h3>
 <img align="right" alt="coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTB5NjZvdm96bjlrbXBsNnYxc3VyejB2MW9wMmpxanNzdmNzeXR0ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=longnguyenthanhle&label=Profile%20views&color=0e75b6&style=flat" alt="longnguyenthanhle" /> </p>
