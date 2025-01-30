@@ -10,8 +10,6 @@
 
 - 🤝 With knowledge in full-stack development, I offer the best projects resulting in quality work.
 
-- 🌱 I’m currently learning **React Native**
-
 - 🏋️ Fun fact: I treat Leetcode the same as Workout. No pain no gain!!
 
 - 🥅 2025 Goal: More Workout, More Leetcode!
