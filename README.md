@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=longnguyenthanhle&label=Profile%20views&color=0e75b6&style=flat" alt="longnguyenthanhle" /> </p>
 
-- 🔭 I’m currently working as an IT Help Desk Technician
+- 🧰 I’m currently working as an IT Help Desk Technician
 
 - 🤝 With knowledge in full-stack development, I offer the best projects resulting in quality work.
 
