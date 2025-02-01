@@ -10,7 +10,7 @@
 
 - 🤝 With knowledge in full-stack development, I offer the best projects resulting in quality work.
 
-- 👨‍💻 Most of my projects are available on 🔥<a href="https://longnguyenthanhle.github.io//">my Portfolio Website</a>🔥.
+- 👨‍💻 My projects are available on 🔥<a href="https://longnguyenthanhle.github.io//">my Portfolio Website</a>🔥.
 
 - 🏋️ Fun fact: I treat Leetcode the same as Workout. No pain no gain!!!
 
