@@ -12,7 +12,7 @@
 
 - 👨‍💻 Most of my projects are available on 🔥<a href="https://longnguyenthanhle.github.io//">my Portfolio Website</a>🔥.
 
-- 🏋️ Fun fact: I treat Leetcode the same as Workout. No pain no gain!!
+- 🏋️ Fun fact: I treat Leetcode the same as Workout. No pain no gain!!!
 
 - 🥅 2025 Goal: More Workout, More Leetcode!
 
