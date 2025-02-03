@@ -29,10 +29,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=longnguyenthanhle&show_icons=true&locale=en&layout=compact" alt="longnguyenthanhle" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=longnguyenthanhle&show_icons=true&locale=en&" alt="longnguyenthanhle" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=longnguyenthanhle&" alt="longnguyenthanhle" /></p>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
